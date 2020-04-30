@@ -1,100 +1,100 @@
 # Adobe
 
-127.0.0.1	helpx.adobe.com
-127.0.0.1	cvs.adobe.com
-127.0.0.1	ccmdl.adobe.com
-127.0.0.1	acdid.acdsystems.com
-127.0.0.1	ardownload.adobe.com
-127.0.0.1	armdl.adobe.com
-127.0.0.1	hl2rcv.adobe.com
-127.0.0.1	ardownload.adobe.com
-127.0.0.1	mx-inet01.maxon.net
-127.0.0.1	mx-inet02.maxon.net
-127.0.0.1	mx-inet03.maxon.net
-127.0.0.1	mx-inet04.maxon.net
-127.0.0.1	updater.maxon.net
-127.0.0.1	updater.maxon.de
-127.0.0.1	updater3.maxon.net
-127.0.0.1	updater4.maxon.net
-127.0.0.1	hos-bb2.juniper1.rz13.hetzn�
-127.0.0.1	hos-tr1.ex3k5.rz13.hetzner.de
-127.0.0.1	hos-tr2.ex3k5.rz13.hetzner.de
-127.0.0.1	hos-tr1.ex3k5.rz13.hetzner.de
+0.0.0.0	helpx.adobe.com
+0.0.0.0	cvs.adobe.com
+0.0.0.0	ccmdl.adobe.com
+0.0.0.0	acdid.acdsystems.com
+0.0.0.0	ardownload.adobe.com
+0.0.0.0	armdl.adobe.com
+0.0.0.0	hl2rcv.adobe.com
+0.0.0.0	ardownload.adobe.com
+0.0.0.0	mx-inet01.maxon.net
+0.0.0.0	mx-inet02.maxon.net
+0.0.0.0	mx-inet03.maxon.net
+0.0.0.0	mx-inet04.maxon.net
+0.0.0.0	updater.maxon.net
+0.0.0.0	updater.maxon.de
+0.0.0.0	updater3.maxon.net
+0.0.0.0	updater4.maxon.net
+0.0.0.0	hos-bb2.juniper1.rz13.hetzn�
+0.0.0.0	hos-tr1.ex3k5.rz13.hetzner.de
+0.0.0.0	hos-tr2.ex3k5.rz13.hetzner.de
+0.0.0.0	hos-tr1.ex3k5.rz13.hetzner.de
 
-127.0.0.1 adobeereg.com
+0.0.0.0 adobeereg.com
 
-127.0.0.1 activate.adobe.com
+0.0.0.0 activate.adobe.com
 
-127.0.0.1 practivate.adobe.com
+0.0.0.0 practivate.adobe.com
 
-127.0.0.1 ereg.adobe.com
+0.0.0.0 ereg.adobe.com
 
-127.0.0.1 activate.wip3.adobe.com
+0.0.0.0 activate.wip3.adobe.com
 
-127.0.0.1 ereg.wip3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
 
-127.0.0.1 wip3.adobe.com
+0.0.0.0 wip3.adobe.com
 
-127.0.0.1 activate-sea.adobe.com
+0.0.0.0 activate-sea.adobe.com
 
-127.0.0.1 wwis-dubc1-vip60.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
 
-127.0.0.1 activate-sjc0.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
 
-127.0.0.1 3dns.adobe.com
+0.0.0.0 3dns.adobe.com
 
-127.0.0.1 3dns-1.adobe.com
+0.0.0.0 3dns-1.adobe.com
 
-127.0.0.1 3dns-2.adobe.com
+0.0.0.0 3dns-2.adobe.com
 
-127.0.0.1 3dns-3.adobe.com
+0.0.0.0 3dns-3.adobe.com
 
-127.0.0.1 3dns-4.adobe.com
+0.0.0.0 3dns-4.adobe.com
 
-127.0.0.1 adobe-dns.adobe.com
+0.0.0.0 adobe-dns.adobe.com
 
-127.0.0.1 adobe-dns-1.adobe.com
+0.0.0.0 adobe-dns-1.adobe.com
 
-127.0.0.1 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
 
-127.0.0.1 adobe-dns-3.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
 
-127.0.0.1 adobe-dns-4.adobe.com
+0.0.0.0 adobe-dns-4.adobe.com
 
-127.0.0.1 adobe-dns-5.adobe.com
+0.0.0.0 adobe-dns-5.adobe.com
 
-127.0.0.1 hh-software.com
+0.0.0.0 hh-software.com
 
-127.0.0.1 www.hh-software.com
+0.0.0.0 www.hh-software.com
 
-127.0.0.1 activate.adobe.de
+0.0.0.0 activate.adobe.de
 
-127.0.0.1 practivate.adobe.de
+0.0.0.0 practivate.adobe.de
 
-127.0.0.1 ereg.adobe.de
+0.0.0.0 ereg.adobe.de
 
-127.0.0.1 activate.wip3.adobe.de
+0.0.0.0 activate.wip3.adobe.de
 
-127.0.0.1 wip3.adobe.de
+0.0.0.0 wip3.adobe.de
 
-127.0.0.1 3dns-3.adobe.de
+0.0.0.0 3dns-3.adobe.de
 
-127.0.0.1 3dns-2.adobe.de
+0.0.0.0 3dns-2.adobe.de
 
-127.0.0.1 adobe-dns.adobe.de
+0.0.0.0 adobe-dns.adobe.de
 
-127.0.0.1 adobe-dns-2.adobe.de
+0.0.0.0 adobe-dns-2.adobe.de
 
-127.0.0.1 adobe-dns-3.adobe.de
+0.0.0.0 adobe-dns-3.adobe.de
 
-127.0.0.1 ereg.wip3.adobe.de
+0.0.0.0 ereg.wip3.adobe.de
 
-127.0.0.1 activate-sea.adobe.de
+0.0.0.0 activate-sea.adobe.de
 
-127.0.0.1 wwis-dubc1-vip60.adobe.de
+0.0.0.0 wwis-dubc1-vip60.adobe.de
 
-127.0.0.1 activate-sjc0.adobe.de
+0.0.0.0 activate-sjc0.adobe.de
 
-127.0.0.1 wwis-dubc1-vip60.adobe.de
+0.0.0.0 wwis-dubc1-vip60.adobe.de
 
-127.0.0.1 hl2rcv.adobe.de
+0.0.0.0 hl2rcv.adobe.de
