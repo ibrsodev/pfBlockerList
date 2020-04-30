@@ -1,10 +1,11 @@
 # Windows
-windowsupdate
-update.microsoft
-download.microsoft
-ws.microsoft
-ntservicepack.microsoft
-wustat.windows
+.windowsupdate.
+.update.microsoft.
+.download.microsoft.
+.ws.microsoft.
+.ntservicepack.microsoft.
+.wustat.windows.
+.dl.delivery.mp.microsoft.
 
 #Trakers
 a.ads1.msn.com
